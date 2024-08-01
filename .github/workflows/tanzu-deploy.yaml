@@ -22,4 +22,4 @@ jobs:
           buildPlanSource: custom-build-plan
           # javaVersion: 17
           project: AMER-West
-          space: ingress-space
+          space: deploy-cli-space
