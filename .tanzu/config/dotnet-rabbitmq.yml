@@ -2,7 +2,7 @@ apiVersion: apps.tanzu.vmware.com/v1
 kind: ContainerApp
 metadata:
   creationTimestamp: null
-  name: dotnet-rabbitmq
+  name: gammon-rabbitmq
 spec:
   build:
     buildpacks: {}
